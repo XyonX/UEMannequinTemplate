@@ -20,7 +20,9 @@ To get started with this template project, follow these steps:
 
 - **Content/MasterSkeletalUE4**: Contains the master skeletal mesh for Unreal Engine 4.
 - **Content/MasterSkeletalUE5**: Contains the master skeletal mesh for Unreal Engine 5.
-- **Other folders and files**: Additional content and configurations for the template project.
+- **Other folders and files**: Additional content and configurations for the template 
+```
+project.
 ├───Content
 │   ├───MasterCharacter
 │   │   ├───Interface
@@ -70,8 +72,11 @@ To get started with this template project, follow these steps:
 │           │   └───Idle
 │           ├───Quinn
 │           └───Manny
+```
 
 ## Master Skeletal
+
+```
 ├───MasterSkeleton
 │   ├───UE4
 │   │       SK_Master_UE4.uasset
@@ -79,6 +84,9 @@ To get started with this template project, follow these steps:
 │   │
 │   └───UE5
 │           SK_Master_UE5.uasset
+
+```
+
 
 
 ## Contributing
